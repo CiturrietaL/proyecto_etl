@@ -47,10 +47,12 @@ Los archivos JSON incluidos (`customers.json`, `accounts.json`, `transactions.js
 
 ## Autor
 
+
 Cristian Iturrieta López  
 Analista QA & Junior Data Analyst  
-cristianiturrieta@gmail.com  
-LinkedIn: https://www.linkedin.com *(opcional agregar tu URL)*
+📧 cristianiturrieta@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/cristian-iturrieta-lopez-b67b77a2)
+
 
 ## Licencia
 
